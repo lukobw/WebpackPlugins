@@ -24,7 +24,7 @@
   "dependencies": {
     "acorn": "^7.1.1",
     "mem": "^6.1.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "uuid": "^3.1.0"
